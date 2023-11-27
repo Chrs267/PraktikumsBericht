@@ -16,8 +16,8 @@
 		4. Alertmanager
 		5. Rundeck
 		6. Ansible
-	7. Aufbau
-	8. Umsetzung
+	6. Aufbau
+	7. Umsetzung
 4. Reflexion
 	1. Fachlicher & Persönlicher Kompetenzgewinn !
 	2. Verbindung zwischen Praktikum und Studium !
