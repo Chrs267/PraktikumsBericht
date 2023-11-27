@@ -8,7 +8,7 @@
 	3. Bestehendes System
 		1. Beschreibung
 		2. [Probleme](Probleme.md) (EoL)
-	4. Anforderungen neues System
+	4. [[Anforderungen neues System]]
 	5.  [Verwendete Tools, Technologien](Verwendete%20Tools,%20Technologien.md)
 		1. Prometheus
 		2. Loki

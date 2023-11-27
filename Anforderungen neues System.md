@@ -1,0 +1,8 @@
+- Verwendung von gängigen bereits bestehenden Technologien/Software
+	- Bereits bestehende Dokumentation etc online zu finden
+	- Keine aufwendige selbst Entwicklung
+-  Leicht an andere Systeme anknüpfbar
+	- Ticket Generierung
+	- Alarmierung über Teams
+	- Problem Behandlung
+- Customization des UIs
