@@ -10,12 +10,12 @@
 		2. [Probleme](Probleme.md) (EoL)
 	4. [[Anforderungen neues System]]
 	5.  [Verwendete Tools, Technologien](Verwendete%20Tools,%20Technologien.md)
-		1. Prometheus
-		2. Loki
-		3. Grafana
-		4. Alertmanager
-		5. Rundeck
-		6. Ansible
+		1. Prometheus [[Verwendete Tools, Technologien#^3de210]]
+		2. Loki [[Verwendete Tools, Technologien#^22dd28]]
+		3. Grafana [[Verwendete Tools, Technologien#^62cab6]]
+		4. Alertmanager [[Verwendete Tools, Technologien#^44ea67]]
+		5. Rundeck [[Verwendete Tools, Technologien#^4800cc]]
+		6. Ansible [[Verwendete Tools, Technologien#^5d4630]]
 	6. Aufbau
 	7. Umsetzung
 4. Reflexion
