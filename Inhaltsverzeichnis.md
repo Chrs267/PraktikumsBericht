@@ -8,7 +8,7 @@
 	3. Bestehendes System
 		1. Beschreibung
 		2. [Probleme](Probleme.md) (EoL)
-	4. [[Anforderungen neues System]]
+	4. [[Anforderungen an neues System]]
 	5.  [Verwendete Tools, Technologien](Verwendete%20Tools,%20Technologien.md)
 		1. Prometheus 
 		   [[Verwendete Tools, Technologien#^3de210]]
@@ -24,7 +24,7 @@
 		   [[Verwendete Tools, Technologien#^5d4630]]
 	6. Aufbau
 	7. Umsetzung
-4. Reflexion
+3. Reflexion
 	1. Fachlicher & Persönlicher Kompetenzgewinn !
 	2. Verbindung zwischen Praktikum und Studium !
 	3. Persönliche Bilanz
