@@ -1,0 +1,4 @@
+- Kein Customizing möglich
+- keine Möglichkeit weitere Systeme anzubinden
+- End of Life/Kein Support mehr
+- Outdated UI

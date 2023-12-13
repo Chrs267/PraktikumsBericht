@@ -1,0 +1,4 @@
+- GlassFish Server
+- Eigenentwicklung
+- SQL-Abfragen auf DB, welche Daten von Werken erhält
+- 

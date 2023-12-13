@@ -1,0 +1,23 @@
+- Loki ^22dd28
+	- Metriken aus Log-Files ermitteln
+	- Regeln und Ruler anlegen
+	- Weiterleitung an Alertmanager
+	- Doku
+- Prometheus ^3de210
+	- Regeln verbessern
+	- Promtool Unit Tests
+		- Doku
+- Grafana ^62cab6
+	- Visualisierung der Loki und Prometheus Regeln
+		 - Vereinfachtes Bauen der regeln durch Baukastensystem
+	- Auslesen der Log-Files der Services
+- Alertmanager ^44ea67
+	- Weiterleitung der Alerts an Teams
+	- Weiterleitung an Rundeck per Webhook
+- Ansible ^5d4630
+	- Kleines Ansible Playbook/Projekt, um Möglichkeiten zu zeigen
+	- Ansible Pull zur Anwendung auf Servern
+	- Ansible Vault zur Verschlüsselung vertraulicher Informationen
+- Rundeck ^4800cc
+	- Aufrufen eines Ansible Playbooks
+	- Weiterleitung der Labels der Alerts über Webhook (Per Options) an Jobs
