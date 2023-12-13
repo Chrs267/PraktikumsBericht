@@ -8,7 +8,7 @@ Fläche: 1,4 Mio M^2 [2]
 Rund 9000 Mitarbeiter [2]  
 Bild einfügen?  
 
-Quellen:
+Quellen:  
 [1] https://www.bmwgroup-werke.com/regensburg/de/aktuelles/231013_8_Mio_BMW_Fahrzeuge_in_37_Jahren_Werksgeschichte.html  
 [2] https://www.bmwgroup-werke.com/regensburg/de.html  
 [3] https://www.bmwgroup.com/de/unternehmen/historie.html#ace-2002110414

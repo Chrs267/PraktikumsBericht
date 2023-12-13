@@ -1,17 +1,17 @@
 ## Vorwort
-[[Vorwort]]  
+[Vorwort](Vorwort.md)  
 Studiengang  
 Daten des Praktikums  
 Dauer
 ## BMW
 ### Kurzvorstellung BMW
-[[Kurzvorstellung BMW]]  
+[Kurzvorstellung BMW](Kurzvorstellung%20BMW.md)  
 Gründung  
 Werke, Länder  
 Mitarbeiter  
 Produzierte Autos
 ### Werk Regensburg
-[[Werk Regensburg]]  
+[Werk Regensburg](Werk%20Regensburg.md)  
 Bau  
 Art des Werks  
 Mitarbeiter  
@@ -19,14 +19,14 @@ Produktionsmenge und Typen
 Fläche  
 Luftbild
 ### Gruppe FG-750
-[[Gruppe FG-750]]  
+[Gruppe FG-750](Gruppe%20FG-750.md)  
 Position im Unternehmen  
 Zuständigkeitsbereiche  
 Mitarbeiter  
 Subprodukte
 ## Hauptteil/Tätigkeitsbeschreibung
 ### Regeltermine
-[[Regeltermine]]  
+[Regeltermine](Regeltermine.md)  
 Q-Next Daily & Sprintwechseln  
 Zweiwöchentliches Gruppen Meeting  
 Zweiwöchentliches IT-Regensburg Meeting  
