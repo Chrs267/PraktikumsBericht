@@ -4,11 +4,13 @@ Daten des Praktikums
 Dauer
 ## BMW
 ### Kurzvorstellung BMW
+[[Kurzvorstellung BMW]]  
 Gründung  
 Werke, Länder  
 Mitarbeiter  
 Produzierte Autos
 ### Werk Regensburg
+[[Werk Regensburg]]  
 Bau  
 Art des Werks  
 Mitarbeiter  
