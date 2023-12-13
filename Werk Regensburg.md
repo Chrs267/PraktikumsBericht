@@ -1,6 +1,6 @@
 Gründung/Bau 1984 Grundsteinlegung, 1987 Inbetriebnahme [3]  
 3 Standorte: Hauptwerk Regensburg Herbert-Quandt-Allee, Batteriewerk Regensburg Leibnizstraße, Innovationspark Wackersdorf [2, 4]  
-Produktion: 2 Modelle X1, X2/4 Modelle iX1, X1, iX2, X2 [5]  
+Produktion: 2 Modelle X1, X2 / 4 Modelle iX1, X1, iX2, X2 [5]  
 Dabei X1&X2 Verbrenner, Hybrid, Vollelektrisch  
 Alle 57 Sekunden ein Auto fertiggestellt [2]  
 Bisher insgesamt mehr als 8 Millionen Fahrzeuge gefertigt [1]  
