@@ -22,7 +22,7 @@ Mitarbeiter
 Subprodukte
 ## Hauptteil/Tätigkeitsbeschreibung
 ### Regeltermine
-[[Regeltermine]]
+[[Regeltermine]]  
 Q-Next Daily & Sprintwechseln  
 Zweiwöchentliches Gruppen Meeting  
 Zweiwöchentliches IT-Regensburg Meeting  
