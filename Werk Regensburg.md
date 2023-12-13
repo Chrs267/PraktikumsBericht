@@ -1,6 +1,6 @@
 Gründung/Bau 1984 Grundsteinlegung, 1987 Inbetriebnahme [3]  
-3 Standorte: Hauptwerk Regensburg Herbert-Quandt-Allee, Batteriewerk Regensburg Leibnizstraße, Innovationspark Wackersdorf [2, 4]
-Produktion: 2 Modelle X1, X2 [2]  
+3 Standorte: Hauptwerk Regensburg Herbert-Quandt-Allee, Batteriewerk Regensburg Leibnizstraße, Innovationspark Wackersdorf [2, 4]  
+Produktion: 2 Modelle X1, X2 [5]  
 Dabei X1&X2 Verbrenner, Hybrid, Vollelektrisch  
 Alle 57 Sekunden ein Auto fertiggestellt [2]  
 Bisher insgesamt mehr als 8 Millionen Fahrzeuge gefertigt [1]  
@@ -12,3 +12,4 @@ Quellen:
 [2] https://www.bmwgroup-werke.com/regensburg/de.html  
 [3] https://www.bmwgroup.com/de/unternehmen/historie.html#ace-2002110414
 [4] https://www.bmwgroup-werke.com/regensburg/de/innovationspark-wackersdorf.html
+[5] https://www.bmwgroup-werke.com/regensburg/de/Produkte.html
