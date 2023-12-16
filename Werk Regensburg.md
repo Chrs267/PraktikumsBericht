@@ -18,5 +18,3 @@ Quellen:
 
 
 Der Bau des BMW Werk Regensburg wurde im Jahr 1982 beschlossen und sollte die Entlastung des Werks in München zur Folge haben. Die Produktion im Werk konnte im Jahr 1987 mit der zweiten Generation des 3er BMW aufgenommen werden. Heute Produziert das Werk vier Modelle: Die als Verbrenner oder Hybrid erhältlichen X1 und X2 und die vollelektrischen iX1 und iX2.
-
-test
