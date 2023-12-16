@@ -1,74 +1,19 @@
 {
   "main": {
-    "id": "7976fc9ad58f2e10",
+    "id": "1524881841f0ccc2",
     "type": "split",
     "children": [
       {
-        "id": "3e743e66518a41c1",
+        "id": "d55adeaf841ff12b",
         "type": "tabs",
         "children": [
           {
-            "id": "ac8f09cf415f51b9",
+            "id": "af531f7aeaea5822",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outline Aufgabe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1242b0328ad5652f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probleme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09b4c75eb2c930ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anforderungen neues System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5163788bf10a70d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verwendete Tools, Technologien.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "7fd396640294b175",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e3309cc7a8e299e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Werk Regensburg.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6dfd4c9c2a164390",
+    "id": "4a542fada74d24dc",
     "type": "split",
     "children": [
       {
-        "id": "a62763278558a80e",
+        "id": "d115b9e7cbc0f911",
         "type": "tabs",
         "children": [
           {
-            "id": "16d91f9fe8da7aae",
+            "id": "c0c749a9ad4694b9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -98,7 +43,7 @@
             }
           },
           {
-            "id": "604c430a5a265fd8",
+            "id": "55e32c9c8fa7c34e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -113,7 +58,15 @@
             }
           },
           {
-            "id": "89acfaffaa6b42dd",
+            "id": "9565a269d5fe8f25",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c192a07d21334977",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -127,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "35af3c7b29d948f0",
+    "id": "08a63c46d52f0690",
     "type": "split",
     "children": [
       {
-        "id": "a8c8f9bf3f89c739",
+        "id": "3a01cda69eb244c9",
         "type": "tabs",
         "children": [
           {
-            "id": "398a162fc63682a7",
+            "id": "5a21e7b2ab2aa987",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Werk Regensburg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,19 +105,19 @@
             }
           },
           {
-            "id": "0978760fdbb0906e",
+            "id": "ea5ac4a1e168b661",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inhaltsverzeichnis.md",
+                "file": "Werk Regensburg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0976b1a142944f77",
+            "id": "edd0dc0d95e15e92",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,21 +128,29 @@
             }
           },
           {
-            "id": "7149b48b8543f717",
+            "id": "bc8ed67947c6de95",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inhaltsverzeichnis.md"
+                "file": "Werk Regensburg.md"
               }
             }
+          },
+          {
+            "id": "e32e641526a8d381",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,16 +162,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3309cc7a8e299e4",
+  "active": "af531f7aeaea5822",
   "lastOpenFiles": [
-    "Verwendete Tools, Technologien.md",
+    "Kurzvorstellung BMW.md",
+    "Gruppe FG-750.md",
+    "Versuch 1/Anforderungen an neues System.md",
+    "Versuch 1/Inhaltsverzeichnis.md",
+    "Versuch 1/Beschreibung.md",
+    "Versuch 1/Probleme.md",
+    "Versuch 1/Outline Aufgabe.md",
+    "Brain Storm.md",
+    "Gruppe FG-750.md~RF6047dad4.TMP",
+    "Vorwort.md",
+    "Werk Regensburg.md",
     "Inhaltsverzeichnis.md",
-    "Anforderungen neues System.md",
-    "Probleme.md",
-    "Anforderungen an neues System.md",
-    "Untitled",
+    "Versuch 1/Verwendete Tools, Technologien.md",
+    "Versuch 1",
     "Outline Aufgabe.md",
-    "Regeltermine.md",
-    "README.md"
+    "Probleme.md",
+    "Anforderungen neues System.md",
+    "Anforderungen an neues System.md"
   ]
 }
