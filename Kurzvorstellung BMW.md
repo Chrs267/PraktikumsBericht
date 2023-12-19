@@ -11,7 +11,6 @@ Quellen:
 https://www.bmwgroup.com/de/unternehmen.html
 
 
-Die Bayrische Motorenwerke Aktiengesellschaft ist ein weltweit agierendes Automobilunternehmen, mit 31 Produktionsstandorten in 15 Ländern und Hauptsitz in München.
 
 Die Bayerische Motoren Werke Aktiengesellschaft tritt in der Öffentlichkeit als BMW Group auf und ist ein weltweit agierender Automobil- und Motorradkonzern mit Sitz in München. Sie gliedert sich in vier produzierende Sparten: BMW Automobile, BMW-Motorrad, Mini und Rolls-Royce Motor Cars GmbH. Hinzu kommen diverse Dienstleistungsangebote, wie Flottenmanagement oder Finanzdienstleistungen.  
 
