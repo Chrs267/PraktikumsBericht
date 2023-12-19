@@ -16,7 +16,7 @@ Quellen:
 [4] https://www.bmwgroup-werke.com/regensburg/de/innovationspark-wackersdorf.html  
 [5] https://www.bmwgroup-werke.com/regensburg/de/Produkte.html
 
-Der Beschluss das BMW Werk Regensburg zur Entlastung des Werks in München zu errichten, wurde im Jahr 1982 gefasst. Etwa fünf Jahre später, im Jahr 1987, konnte die Produktion des 3er BMW im Südosten Regensburgs aufgenommen werden. Heute produziert das Werkt vier Modelle: Die Verbrenner X1 und X2 sowie die vollelektrischen Modelle iX1 und iX2, welche in einem Takt von 57 Sekunden fertiggestellt werden. Seit Beginn der Produktion im Werk Regensburg, vor etwa 36 Jahren, wurden über 8 Millionen PKWs hergestellt.  
+Der Beschluss, das BMW Werk Regensburg zur Entlastung des Werks in München zu errichten, wurde im Jahr 1982 gefasst. Etwa fünf Jahre später, im Jahr 1987, konnte die Produktion des 3er BMW im Südosten Regensburgs aufgenommen werden. Heute produziert das Werkt vier Modelle: Die Verbrenner X1 und X2 sowie die vollelektrischen Modelle iX1 und iX2, welche in einem Takt von 57 Sekunden fertiggestellt werden. Seit Beginn der Produktion im Werk Regensburg, vor etwa 36 Jahren, wurden über 8 Millionen PKWs hergestellt.  
 
 Das Werk umfasst eine Fläche von rund 1,4 Millionen Quadratmetern, auf der etwa 9000 Mitarbeiter beschäftigt werden.  
 
