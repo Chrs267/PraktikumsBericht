@@ -39,7 +39,7 @@ Monatlicher Arbeitstermin, in dem neue Technologien/Pläne/etc vorgestellt werde
 End of Life  
 Schlecht zu erweitern  
 Outdated UI
-### Anforderungsanalyse
+### Anforderungen
 Funktionale & Nichtfunktionale Anforderungen an das komplette System
 ### Implementierung
 #### (Exporter)

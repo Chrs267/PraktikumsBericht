@@ -11,7 +11,7 @@
 		- Verteilung der Aufgaben für nächsten Sprint
 		- Kommunikation und Austausch im Team
 - FG-7 Stay informed
-	Zwei wöchentliches Abteilungs Info Meeting
+	Wöchentliches Abteilungs Info Meeting
 	- Treffen der Abteilungen
 	- Informationsfluss "von Oben"
 	- Austausch unter den Gruppen
@@ -22,3 +22,5 @@
 - FG-750 Gruppenrunde
 	Zwei wöchentliche Gruppen Runde
 	- Informationen, die die Gruppe betreffen werden verteilt
+
+
