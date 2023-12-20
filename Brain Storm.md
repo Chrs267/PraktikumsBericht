@@ -41,6 +41,11 @@ Schlecht zu erweitern
 Outdated UI
 ### Anforderungen
 Funktionale & Nichtfunktionale Anforderungen an das komplette System
+
+Beschreibung des zu überwachenden Systems
+Über 50 Schnittstellen, z. T. veraltete Technologien
+Legacy Software
+Monitoring speziell für das zentrale Qualitätssystem
 ### Implementierung
 #### (Exporter)
 Liefern Metrik auf verschiedene Weisen
@@ -52,18 +57,24 @@ Log Files empfangen
 Metriken aus Log Files generieren  
 Alerts auf diese Metriken schreiben
 #### Alertmanager
-Sammelt Alerts und leitet nach Config weiter  
+Sammelt Alerts und leitet nach Config weiter  (Aufgrund von Labels)
 Zeigt feuernde Alerts an
 #### Ansible
 Genutzt zur Automatisierung verschiedener Tasks  
 Fehlerbehebung  
 Installation/Setup Prozesse
+Selbst an Beispielen aus dem Unternehmen gelernt
 #### Rundeck
 Wird durch Alertmanager aufgerufen  
 Jobs werden aufgerufen -> Automatisierung
+#### Confluence, Jira, Git
+Zur Koordination
+Zur Source Control
+Wissensmanagement (Dokumentieren)
 ### Test & Abnahme?
 Prometheus Unit Tests für Prometheus Regeln  
 Curl für Alertmanager
+Workshop Vorstellungen
 ## Reflexion
 ### Was habe ich fachlich dazugelernt
 Arbeiten im Low-/No-Code Bereich  
