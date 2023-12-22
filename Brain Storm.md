@@ -35,17 +35,32 @@ Wöchentliches Domänen-/Abteilungs-Meeting
 Monatlicher Arbeitstermin, in dem neue Technologien/Pläne/etc vorgestellt werden
 ### Problem Beschreibung
 #### Erklärung was Pampas ist
+Aktuelles Monitoring
+Glassfisch 4 Server
+Nagios uralt mit modifikationen
+	Bietet manche vordefinierte Checks
+	Bietet custom checks über DBs
+Daten kommen aus Datenbanken und direkt vom Linux Packet über einen technischen User
 #### Probleme von Pampas
 End of Life  
+	Outdated UI
 Schlecht zu erweitern  
-Outdated UI
+	Komplette Überarbeitung der alten Versionen und selbst angepassten Bausteine nötig
+	Glass4 auf Payara umziehen
+	Automatisierung über Rundeck nicht möglich
+	Ansible nicht zum automatischen einrichten möglich
+		Große Vorteile: Wiederverwendbar, Reproduzierbar, Einheitlich
+  Z. T. manuelle Aufgaben vor der Produktion nötig
+	  Uhrzeit, menschlicher Fehler
+
+Reihenfolge: EoL -> Prometheus -> Ansible Automatisierung -> Rundeck als GUI -> Rundeck um alles mögliche zu automatisieren
 ### Anforderungen
 Funktionale & Nichtfunktionale Anforderungen an das komplette System
 
 Beschreibung des zu überwachenden Systems
 Über 50 Schnittstellen, z. T. veraltete Technologien
 Legacy Software
-Monitoring speziell für das zentrale Qualitätssystem
+Monitoring speziell für das zentrale Qualitätssystem, welches Legacy Software mit z. T. veralteten Technologien 
 ### Implementierung
 #### (Exporter)
 Liefern Metrik auf verschiedene Weisen
