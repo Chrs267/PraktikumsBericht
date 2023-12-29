@@ -38,4 +38,7 @@ Während meines Betriebspraktikums bei der BMW AG war ich Teil eines kleinen Tea
 Mit diesem Team habe ich an den meisten üblichen Scrum Meetings teilgenommen. 
 
 Für die Länge der Sprints wurde eine Dauer von 2 Wochen gewählt. Diese Zeitspanne wird immer durch das Sprint Planning gestartet. In diesem Meeting nehmen die Entwickler Stories aus dem Backlog in den Sprint auf. Bereits zu diesem Zeitpunkt weißen sich die Entwickler ihre User Stories, und damit ihre Aufgaben für den Sprint, zu.  
-Während des Sprints wird täglich das 30 minütige Daily gehalten. Hier stellen die Entwickler ihren Fortschritt seit dem letzten Meeting dar, erklären an welchen Stellen Probleme sie aufhalten und wie sie weiter vorgehen werden. User Stories können hier in kleinere Tasks unterteilt werden und entsprechend ihres Status, nicht begonnen, in Bearbeitung oder abgeschlossen, markiert.  
+Während des Sprints wird täglich das 30 minütige Daily gehalten. Hier stellen die Entwickler ihren Fortschritt seit dem letzten Meeting dar, erklären welche Probleme sie aufhalten und wie sie weiter vorgehen werden. User Stories können hier in kleinere Tasks unterteilt werden und werden vom Agile Master in die entsprechende Rubrik, nicht begonnen, in Bearbeitung oder abgeschlossen, verschoben.  
+Beendet wird der Sprint durch das Sprint Review und die Sprint Retrospektive.  
+Beim Sprint Review stellen die Entwickler ihre abgeschlossenen User Stories vor und demonstrieren, wenn möglich, neue Features oder Technologien.  
+Bei der Retrospektive, oder kurz auch Retro, wird die Organisation des Sprints besprochen. Die Teammitglieder haben die Möglichkeit anonym Rückmeldung abzugeben. Über diese wird im Team gesprochen und mögliche Änderungen im nächsten Sprint angewandt.
