@@ -34,7 +34,7 @@ Auf das Review folgt das Sprint Retro, oder auch Retrospektive, welche genutzt w
 
 
 
-Während meines Betriebspraktikums bei der BMW AG war ich Teil eines kleinen Teams, das nach einem agilen Scrum Modell arbeitet. Teil dieses Teams waren ein Agile Master, ein Product Owner und fünf Entwickler, zu denen auch der Product Owner gehört.  
+Während meines Betriebspraktikums bei der BMW AG war ich Teil eines kleinen Teams, das nach einem agilen Scrum Modell, mit leichten Abänderungen, arbeitet. Eine dieser Änderungen ist, dass das Product Owner ebenfalls Teil des Entwicklerteams ist. So kommt die Anzahl von fünf Entwicklern, die von einem Agile Master unterstützt werden, zusammen.  
 Mit diesem Team habe ich an den meisten üblichen Scrum Meetings teilgenommen. 
 
 Für die Länge der Sprints wurde eine Dauer von 2 Wochen gewählt. Diese Zeitspanne wird immer durch das Sprint Planning gestartet. In diesem Meeting nehmen die Entwickler Stories aus dem Backlog in den Sprint auf. Bereits zu diesem Zeitpunkt weißen sich die Entwickler ihre User Stories, und damit ihre Aufgaben für den Sprint, zu.  
