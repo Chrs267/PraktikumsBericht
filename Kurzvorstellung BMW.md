@@ -9,7 +9,7 @@ Quellen:
 [2] https://www.bmwgroup.com/de/unternehmen/marken.html  
 [3] https://www.bmwgroup.com/de/unternehmen/standorte.html  
 https://www.bmwgroup.com/de/unternehmen.html
-
+https://www.press.bmwgroup.com/deutschland/photo/detail/P90446085/BMW-Group-Produktionsnetzwerk-31-Produktionstandorte-in-15-L%C3%A4ndern-12-2021
 
 
 Die Bayerische Motoren Werke Aktiengesellschaft tritt in der Öffentlichkeit als BMW Group auf und ist ein weltweit agierender Automobil- und Motorradkonzern mit Sitz in München. Sie gliedert sich in vier produzierende Sparten: BMW Automobile, BMW-Motorrad, Mini und Rolls-Royce Motor Cars GmbH. Hinzu kommen diverse Dienstleistungsangebote, wie Flottenmanagement oder Finanzdienstleistungen.  
