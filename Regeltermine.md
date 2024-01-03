@@ -29,9 +29,13 @@
 
 Während meines Betriebspraktikums bei der BMW AG war ich Teil eines kleinen Teams, das nach einem agilen Scrum Modell, mit leichten Abänderungen, arbeitet. Eine dieser Änderungen ist, dass das Product Owner ebenfalls Teil des Entwicklerteams ist. So kommt die Anzahl von fünf Entwicklern, die von einem Agile Master unterstützt werden, zusammen.  
 Mit diesem Team habe ich an den meisten üblichen Scrum Meetings teilgenommen.  
-Für die Länge der Sprints wurde eine Zeitrahmen von 2 Wochen gewählt. Diese Zeitspanne wird immer durch das Sprint Planing gestartet. In diesem Meeting nehmen die Entwickler Stories aus dem Backlog in den Sprint auf. Bereits zu diesem Zeitpunkt weißen sich die Entwickler ihre User Stories, und damit ihre Aufgaben für den Sprint, zu.  
-Während der Sprints wird täglich das 30-minütige Daily gehalten. Hier stellen die Entwickler ihren Fortschritt seit dem letzten Meeting dar, erklären welche Probleme sie aufhalten und wie sie weiter vorgehen werden. User Stories können hier in kleinere Tasks unterteilt werden und werden vom Agile Master in die entsprechende Rubrik, nicht begonnen, in Bearbeitung oder abgeschlossen, verschoben.  
-Beendet werden die Sprints durch das Sprint Review und die Sprint Retrospektive.  
+Für die Länge der Sprints wurde eine Zeitrahmen von 2 Wochen gewählt. Diese Zeitspanne wird immer durch das Sprint Planing gestartet. In diesem Meeting nehmen die Entwickler Stories aus dem Backlog in den Sprint auf. Bereits zu diesem Zeitpunkt weißen sich die Entwickler ihre User Stories, und damit ihre Aufgaben für den Sprint, zu. Dieses Meeting findet in Präsenz am Standort München statt.  
+Während der Sprints wird täglich das 30-minütige Daily online gehalten. Hier stellen die Entwickler ihren Fortschritt seit dem letzten Meeting dar, erklären welche Probleme sie aufhalten und wie sie weiter vorgehen werden. User Stories können hier in kleinere Tasks unterteilt werden und werden vom Agile Master in die entsprechende Rubrik, nicht begonnen, in Bearbeitung oder abgeschlossen, verschoben.  
+Beendet werden die Sprints durch das Sprint Review und die Sprint Retrospektive, die ebenfalls in Präsenz stattfinden.  
 Beim Sprint Review stellen die Entwickler ihre abgeschlossenen User Stories vor und demonstrieren, wenn möglich, neue Features oder Technologien.  
 Die Retrospektive, oder kurz auch Retro, dient der Besprechung der Organisation und des Verlaufs des Sprints. Die Teammitglieder haben die Möglichkeit anonym Rückmeldung abzugeben. Über diese wird im Team gesprochen und mögliche Änderungen im nächsten Sprint angewandt.
 
+Wöchentlich findet das Info Meeting der Shopflore Domäne statt. Unter diese Domäne Fallen die Abteilungen FG-74 und FG-75, deren Gruppen für die Produktionssteuerung und die Qualitätskontrolle der Produktion zuständig sind.  
+In diesem Online-Meeting geben die Abteilungsleiter Informationen aus anderen Meetings, beispielsweise mit ihren Vorgesetzten, an die Beschäftigten der Domäne weiter. Beschäftigte haben hier zusätzlich die Möglichkeit Fragen zu aktuellen internen Themen zu stellen.
+
+Das Info-Meeting des IT-Personals des Werks Regensburg findet alle zwei Wochen statt. Hier werden Informationen, die das Werk betreffen 
