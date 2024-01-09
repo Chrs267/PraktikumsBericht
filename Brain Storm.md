@@ -35,6 +35,7 @@ Wöchentliches Domänen-/Abteilungs-Meeting
 Monatlicher Arbeitstermin, in dem neue Technologien/Pläne/etc vorgestellt werden
 ### Problem Beschreibung
 #### Erklärung was Pampas ist
+[Pampas](Pampas.md)
 Aktuelles Monitoring
 Glassfisch 4 Server
 Nagios uralt mit modifikationen
@@ -46,12 +47,13 @@ End of Life
 	Outdated UI
 Schlecht zu erweitern  
 	Komplette Überarbeitung der alten Versionen und selbst angepassten Bausteine nötig
-	Glass4 auf Payara umziehen
+	GlassFish4 auf Payara umziehen
 	Automatisierung über Rundeck nicht möglich
 	Ansible nicht zum automatischen einrichten möglich
 		Große Vorteile: Wiederverwendbar, Reproduzierbar, Einheitlich
   Z. T. manuelle Aufgaben vor der Produktion nötig
 	  Uhrzeit, menschlicher Fehler
+Unsicher ob ITSM-Next angebunden werden kann
 
 Reihenfolge: EoL -> Prometheus -> Ansible Automatisierung -> Rundeck als GUI -> Rundeck um alles mögliche zu automatisieren
 ### Anforderungen
@@ -60,13 +62,30 @@ Funktionale & Nichtfunktionale Anforderungen an das komplette System
 Beschreibung des zu überwachenden Systems
 Über 50 Schnittstellen, z. T. veraltete Technologien
 Legacy Software
-Monitoring speziell für das zentrale Qualitätssystem, welches Legacy Software mit z. T. veralteten Technologien 
+Monitoring speziell für das zentrale Qualitätssystem, welches aus Legacy Software mit z. T. veralteten Technologien besteht
 ### Implementierung
+
+Abriss des Systems
+Exporter werden auf Linux Server installiert und Sammeln Daten
+Zentrales Prometheus scraped diese Daten ab
+Loki erhält über Promtail Daten von Prometheus
+Grafana erhält Daten von Loki und Prometheus
+Loki und Prometheus schicken, im Fall eines Alarms, Daten an Alertmanager
+Alertmanager Schickt Daten per Webhook an Teams, Rundeck, ITSM etc
+Rundeck Jobs führen Skripte oder Ansible Playbooks aus
 #### (Exporter)
 Liefern Metrik auf verschiedene Weisen
+
+Blocking Session
+Session Utilization
 #### Prometheus
 Verarbeitet Metriken weiter zu Regeln  
 Sendet bei Schwellwertüberschreitung Alarm an Alertmanager
+
+Regeln angepasst (Ober und Untergrenze)
+Regeln für oben erwähnte Metriken ergänzt
+Blocking Session Regel Bild einfügen
+
 #### Loki
 Log Files empfangen  
 Metriken aus Log Files generieren  
